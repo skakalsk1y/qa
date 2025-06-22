@@ -1,0 +1,13 @@
+{
+    "name": "qa-saucedemo",
+    "version": "1.0.0",
+    "description": "QA automation project for saucedemo.com and jsonplaceholder API",
+    "scripts": {
+      "test": "cypress run",
+      "cypress:open": "cypress open"
+    },
+    "devDependencies": {
+      "cypress": "^13.1.0"
+    }
+  }
+  
